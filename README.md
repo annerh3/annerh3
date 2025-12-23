@@ -1,4 +1,4 @@
-# 💫 Sobre mi:
+# 💫 Hola, soy Anner :)
 🔭 Empezando con proyecto emocionante.<br>👯 Me gustaria colaborar en proyectos donde pueda aprender más.<br>🌱 En el continuo aprendizaje.<br>💟 Humble moment: No sabia que una peticion GET no podia llevar un body.
 
 
